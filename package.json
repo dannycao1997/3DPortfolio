@@ -1,0 +1,28 @@
+{
+  "name": "-latest",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "3d_portfolio/node_modules/.bin/vite",
+    "build": "3d_portfolio/node_modules/.bin/vite build",
+    "lint": "3d_portfolio/node_modules/.bin/eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "3d_portfolio/node_modules/.bin/vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^11.2.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "vite": "^5.2.0"
+  }
+}
