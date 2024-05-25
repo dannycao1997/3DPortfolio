@@ -171,27 +171,27 @@ const experiences = [
 const testimonials = [
     {
         testimonial:
-            "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-        name: "Sara Lee",
-        designation: "CFO",
-        company: "Acme Co",
-        image: "https://randomuser.me/api/portraits/women/4.jpg",
+            "I thought it was impossible to make the Twitter clone website as beautiful as our product, but Danny proved me wrong.",
+        name: "Asan Ahmadli ",
+        designation: "Quality Assurance Specialist",
+        company: "JPMorgan Chase & Co",
+        image: "https://media.licdn.com/dms/image/C4D03AQHy2ne7mCcELw/profile-displayphoto-shrink_800_800/0/1623101271346?e=1721865600&v=beta&t=QbUzVAVHoKlniihYfiADT8asJi-auLp3yNwTDEzw3Rg",
     },
     {
         testimonial:
-            "I've never met a web developer who truly cares about their clients' success like Rick does.",
-        name: "Chris Brown",
-        designation: "COO",
-        company: "DEF Corp",
-        image: "https://randomuser.me/api/portraits/men/5.jpg",
+            "I've never met a web developer who truly cares about their UX/UI like Danny does.",
+        name: "Abukar Abukar ",
+        designation: "Member",
+        company: "Norwegian Refugee Council",
+        image: "https://media.licdn.com/dms/image/D4E35AQFm303gByasXg/profile-framedphoto-shrink_800_800/0/1715953663212?e=1717257600&v=beta&t=SdKt5St6jQJsMWU_4iv_MVMr-S-6rb-d7-yRXL1aIFY",
     },
     {
         testimonial:
-            "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-        name: "Lisa Wang",
-        designation: "CTO",
-        company: "456 Enterprises",
-        image: "https://randomuser.me/api/portraits/women/6.jpg",
+            "After Danny optimized our WilmFilm website, our traffic increased by 50%. We can't thank him enough!",
+        name: "Conrad Bruton",
+        designation: "Small Business Consultant",
+        company: "Bank of America",
+        image: "https://media.licdn.com/dms/image/D4E03AQHPBvNTEbrtBg/profile-displayphoto-shrink_800_800/0/1712247585233?e=1721865600&v=beta&t=kC5wK-Sc9B5Je0JbGaweQnMTHOXsZ6h8FnMHEwWx1yM",
     },
 ];
 
