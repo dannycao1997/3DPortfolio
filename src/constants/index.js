@@ -54,7 +54,7 @@ const services = [
         icon: backend,
     },
     {
-        title: "UX and UI Designer",
+        title: "UX/UI Designer",
         icon: creator,
     },
 ];
@@ -119,7 +119,7 @@ const experiences = [
         title: "Service Advisor",
         company_name: "Pep Boys",
         icon: starbucks,
-        iconBg: "#383E56",
+        iconBg: "#ffffff",
         date: "Aug 2016 - Mar 2018",
         points: [
             "Interacted with customers to assess vehicle issues, providing expert advice and recommendations for repairs and maintenance, utilized strong organizational skills to effectively manage service appointments, and communicated effectively with technicians to ensure prompt and accurate completion of work",
@@ -131,7 +131,7 @@ const experiences = [
         title: "Service Advisor",
         company_name: "Nelson’s Auto Repair, Action Discount Tire",
         icon: tesla,
-        iconBg: "#E6DEDD",
+        iconBg: "#ffffff",
         date: "Mar 2019 – Jan 2020",
         points: [
             "Provided personalized service to customers, addressing inquiries and explaining repair recommendations",
@@ -144,7 +144,7 @@ const experiences = [
         title: "Assistant Manager, Service Advisor",
         company_name: "Union Park Honda",
         icon: shopify,
-        iconBg: "#383E56",
+        iconBg: "#ffffff",
         date: "Jun 2022 – Dec 2023",
         points: [
             "Supervised a team of 10+ technicians, providing guidance and support to ensure excellent customer service and efficient workflow within the service department. Conducted team meetings to communicate goals, objectives, and updates on operations, fostering a collaborative and informed work environment",
@@ -157,7 +157,7 @@ const experiences = [
         title: "Software Developer",
         company_name: "Zip Code Wilmington",
         icon: meta,
-        iconBg: "#E6DEDD",
+        iconBg: "#ffffff",
         date: "Feb 2024 – Present",
         points: [
             "Worked collaboratively on an Agile team of 4, to develop a Twitter clone application, utilizing JHipster, Spring Boot, MySQL, Java, JavaScript, TypeScript, HTML/CSS; personally responsible for developing the Frontend and voice recognition feature using 3rd party APIs",

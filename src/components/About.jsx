@@ -38,16 +38,20 @@ const ServiceCard = ({ index, title, icon }) => (
 const About = () => {
   return (
       <>
-        <motion.div variants={textVariant()}>
-          <p className={styles.sectionSubText}>Introduction</p>
-          <h2 className={styles.sectionHeadText}>Overview.</h2>
-        </motion.div>
+          <motion.div variants={textVariant()}>
+              <p className={styles.sectionSubText}>Introduction</p>
+              <h2 className={styles.sectionHeadText}>Overview.</h2>
+              <a href="https://www.linkedin.com/in/dannycao97/" target="_blank" rel="noopener noreferrer"
+                 className="text-blue-400 hover:text-blue-800">
+                  https://www.linkedin.com/in/dannycao97/
+              </a>
+          </motion.div>
 
-        <motion.p
-            variants={fadeIn("", "", 0.1, 1)}
-            className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
-        >
-            Admitted into Zip Code Wilmington’s highly competitive software development
+          <motion.p
+              variants={fadeIn("", "", 0.1, 1)}
+              className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+          >
+              Admitted into Zip Code Wilmington’s highly competitive software development
             program accepting less than 10% of applicants; completed over 1000 hours of software
             development projects in an immersive, full-stack training program using Agile and
             Scrum methodologies and test-driven development; gained experience with multiple
