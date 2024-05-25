@@ -197,67 +197,67 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "JDM Car Rental App",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "Web-based platform that allows users to search and book the finest JDM and exotic sports cars rentals from various providers, providing a convenient and efficient solution for transportation needs.",
         tags: [
             {
-                name: "react",
+                name: "javascript",
                 color: "blue-text-gradient",
             },
             {
-                name: "mongodb",
+                name: "java",
                 color: "green-text-gradient",
             },
             {
-                name: "tailwind",
+                name: "html",
                 color: "pink-text-gradient",
             },
         ],
         image: carrent,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/dannycao1997/JDMCarRentalApp",
     },
     {
-        name: "Job IT",
+        name: "Echo - A Twitter Clone",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "This application replicates the core functionalities of Twitter, providing a comprehensive platform for microblogging. Echo is crafted with a modern technology stack, featuring Spring Boot for the backend services and React for the frontend interactions, ensuring a responsive and user-friendly experience. It includes a voice recognition feature, allowing users to create posts hands-free.",
         tags: [
             {
-                name: "react",
+                name: "typescript",
                 color: "blue-text-gradient",
             },
             {
-                name: "restapi",
+                name: "springboot",
                 color: "green-text-gradient",
             },
             {
-                name: "scss",
+                name: "jhipster",
                 color: "pink-text-gradient",
             },
         ],
         image: jobit,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/dannycao1997/Twitter-Clone",
     },
     {
-        name: "Trip Guide",
+        name: "Dictionary App",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "The main objective of the voice recognition dictionary app was to simplify the process of searching for word meanings and examples by allowing users to use their voice instead of typing.",
         tags: [
             {
-                name: "nextjs",
+                name: "mysql",
                 color: "blue-text-gradient",
             },
             {
-                name: "supabase",
+                name: "html",
                 color: "green-text-gradient",
             },
             {
-                name: "css",
+                name: "typescript",
                 color: "pink-text-gradient",
             },
         ],
         image: tripguide,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/dannycao1997/DictionaryApp",
     },
 ];
 
