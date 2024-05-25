@@ -19,7 +19,7 @@ const Hero = () => {
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>
                 WELCOME TO MY 3D PORTFOLIO
-                <img src="https://img.icons8.com/?size=100&id=gpQexbssIBrX&format=png&color=000000" alt="Icon" />
+                <img src="https://img.icons8.com/?size=100&id=gpQexbssIBrX&format=png&color=000000" alt="Icon"/>
                 <br className='sm:block hidden'/>
             </p>
           </div>
