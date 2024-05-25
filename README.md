@@ -14,8 +14,7 @@ React.js and Three.js. It is a fully responsive website that works well on all d
 
 **3D Portfolio** is built using the following technologies:</summary>
 
-- [TypeScript](https://www.typescriptlang.org/): TypeScript is a typed superset of JavaScript that
-  compiles to plain JavaScript.
+- [JavaScript](https://www.javascript.com/): JavaScript is a programming language and core technology of the Web.
 - [Vite](https://vitejs.dev/): Vite is a build tool that aims to provide a faster and leaner
   development experience for modern web projects.
 - [React.js](https://reactjs.org/): React is a free and open-source front-end JavaScript library for
