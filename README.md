@@ -1,10 +1,9 @@
-# MY SICK 3D PORTFOLIO
+# MY 3D PORTFOLIO
 
 ## 🌐 Live Demo 
-Checkout the live demonstration of the project: [http://DANNYCAO.TECH](http://dannycao.tech) 
+Check out the live project! :) [http://dannycao.tech](http://dannycao.tech) 
 
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://github.com/dannycao1997/3D_Portfolio/blob/8b9af69a91c614c71f2e373cfb451a171121b876/demo.gif" />
 
 ## 📖 Description
 I created a well-designed and fully functional 3d portfolio website that is built with
