@@ -199,7 +199,7 @@ const projects = [
     {
         name: "Dannyverse - Web 3.0 Blockchain App",
         description:
-            "This Web 3.0 application allows you to connect your Ethereum wallet via MetaMask, manage transactions, and interact with smart contracts with unparalleled ease. Enhanced with unique messaging capabilities and GIFs, Dannyverse merges solid security with React.js and Solidity to offer a user-friendly platform that transforms your approach to digital currency. Check out the live app! -> ✨https://dannyverse.tech/ ✨",
+            "This Web 3.0 application allows you to connect your Ethereum wallet via MetaMask, manage transactions, and interact with smart contracts with unparalleled ease. Enhanced with unique messaging capabilities and GIFs, Dannyverse merges solid security with React.js and Solidity to offer a user-friendly platform that transforms your approach to digital currency. Check out the live app! ✨ https://dannyverse.tech/ ✨",
         tags: [
             {
                 name: "javascript",

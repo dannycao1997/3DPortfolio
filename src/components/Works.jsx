@@ -89,6 +89,11 @@ const Works = () => {
                    className="text-blue-400 hover:text-blue-800">
                     https://github.com/dannycao1997
                 </a>
+                <br/>
+                <a href="https://dannyverse.tech/" target="_blank" rel="noopener noreferrer"
+                   className="text-blue-400 hover:text-blue-800">
+                    https://dannyverse.tech/
+                </a>
             </motion.p>
         </div>
 
