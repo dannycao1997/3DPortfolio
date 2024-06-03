@@ -116,28 +116,16 @@ const technologies = [
 
 const experiences = [
     {
-        title: "Service Advisor",
-        company_name: "Pep Boys",
-        icon: starbucks,
+        title: "Software Developer",
+        company_name: "Zip Code Wilmington",
+        icon: meta,
         iconBg: "#ffffff",
-        date: "Aug 2016 - Mar 2018",
+        date: "Feb 2024 – Present",
         points: [
-            "Interacted with customers to assess vehicle issues, providing expert advice and recommendations for repairs and maintenance, utilized strong organizational skills to effectively manage service appointments, and communicated effectively with technicians to ensure prompt and accurate completion of work",
-            "Collaborated with the service manager to assess departmental performance metrics and devised effective strategies for enhancement",
-            "Cultivated strong customer relationships by clearly explaining estimates and meticulously documenting issues and data within the management system",
-        ],
-    },
-    {
-        title: "Service Advisor",
-        company_name: "Nelson’s Auto Repair, Action Discount Tire",
-        icon: tesla,
-        iconBg: "#ffffff",
-        date: "Mar 2019 – Jan 2020",
-        points: [
-            "Provided personalized service to customers, addressing inquiries and explaining repair recommendations",
-            "Utilized strong problem-solving skills to diagnose vehicle issues and recommend appropriate solutions",
-            "Collaborated with technicians to ensure accurate and timely completion of repairs, maintaining customer satisfaction",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Worked collaboratively on an Agile team of 4, to develop a Twitter clone application, utilizing JHipster, Spring Boot, MySQL, Java, JavaScript, TypeScript, HTML/CSS; personally responsible for developing the Frontend and voice recognition feature using 3rd party APIs",
+            "Led the development of an exotic sports car rental application, integrating my automotive industry knowledge with advanced programming skills. Utilized technologies include Java, JavaScript, TypeScript, HTML/CSS, React, Spring Boot, JHipster, Bootstrap, Tailwind CSS and MySQL",
+            "Collaborated with a developers to create a voice recognition dictionary app that allowed users to effortlessly search for word definitions and examples using their voice, integrating advanced speech-to-text technology with a user-friendly React interface and a robust Java/Spring Boot backend. This project highlighted our ability to create accessible, innovative solutions within an Agile framework",
+            "Completed over 1000 hours of software development projects",
         ],
     },
     {
@@ -154,16 +142,28 @@ const experiences = [
         ],
     },
     {
-        title: "Software Developer",
-        company_name: "Zip Code Wilmington",
-        icon: meta,
+        title: "Service Advisor",
+        company_name: "Nelson’s Auto Repair, Action Discount Tire",
+        icon: tesla,
         iconBg: "#ffffff",
-        date: "Feb 2024 – Present",
+        date: "Mar 2019 – Jan 2020",
         points: [
-            "Worked collaboratively on an Agile team of 4, to develop a Twitter clone application, utilizing JHipster, Spring Boot, MySQL, Java, JavaScript, TypeScript, HTML/CSS; personally responsible for developing the Frontend and voice recognition feature using 3rd party APIs",
-            "Led the development of an exotic sports car rental application, integrating my automotive industry knowledge with advanced programming skills. Utilized technologies include Java, JavaScript, TypeScript, HTML/CSS, React, Spring Boot, JHipster, Bootstrap, Tailwind CSS and MySQL",
-            "Collaborated with a developers to create a voice recognition dictionary app that allowed users to effortlessly search for word definitions and examples using their voice, integrating advanced speech-to-text technology with a user-friendly React interface and a robust Java/Spring Boot backend. This project highlighted our ability to create accessible, innovative solutions within an Agile framework",
-            "Completed over 1000 hours of software development projects",
+            "Provided personalized service to customers, addressing inquiries and explaining repair recommendations",
+            "Utilized strong problem-solving skills to diagnose vehicle issues and recommend appropriate solutions",
+            "Collaborated with technicians to ensure accurate and timely completion of repairs, maintaining customer satisfaction",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Service Advisor",
+        company_name: "Pep Boys",
+        icon: starbucks,
+        iconBg: "#ffffff",
+        date: "Aug 2016 - Mar 2018",
+        points: [
+            "Interacted with customers to assess vehicle issues, providing expert advice and recommendations for repairs and maintenance, utilized strong organizational skills to effectively manage service appointments, and communicated effectively with technicians to ensure prompt and accurate completion of work",
+            "Collaborated with the service manager to assess departmental performance metrics and devised effective strategies for enhancement",
+            "Cultivated strong customer relationships by clearly explaining estimates and meticulously documenting issues and data within the management system",
         ],
     },
 ];
