@@ -29,6 +29,10 @@ import tesla from "./company/autoservice.png";
 import carrent from "./carrental.png";
 import jobit from "./echo.png";
 import tripguide from "./dictionaryapp.png";
+import dannyverse from "./dannyverse.png";
+
+
+
 
 export {
   logo,
@@ -59,4 +63,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  dannyverse,
+
 };
+
+

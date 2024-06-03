@@ -22,7 +22,7 @@ import {
     carrent,
     jobit,
     tripguide,
-    threejs,
+    threejs, dannyverse,
 } from "../assets";
 
 export const navLinks = [
@@ -197,25 +197,25 @@ const testimonials = [
 
 const projects = [
     {
-        name: "JDM Car Rental App",
+        name: "Dannyverse - Web 3.0 Blockchain App",
         description:
-            "Web-based platform that allows users to search and book the finest JDM and exotic sports cars rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "This Web 3.0 application allows you to connect your Ethereum wallet via MetaMask, manage transactions, and interact with smart contracts with unparalleled ease. Enhanced with unique messaging capabilities and GIFs, Dannyverse merges solid security with React.js and Solidity to offer a user-friendly platform that transforms your approach to digital currency. https://dannyverse.tech/",
         tags: [
             {
                 name: "javascript",
                 color: "blue-text-gradient",
             },
             {
-                name: "java",
+                name: "css",
                 color: "green-text-gradient",
             },
             {
-                name: "html",
+                name: "solidity",
                 color: "pink-text-gradient",
             },
         ],
-        image: carrent,
-        source_code_link: "https://github.com/dannycao1997/JDMCarRentalApp",
+        image: dannyverse,
+        source_code_link: "https://github.com/dannycao1997/Dannyverse_BlockchainApp",
     },
     {
         name: "Echo - A Twitter Clone",
@@ -237,6 +237,27 @@ const projects = [
         ],
         image: jobit,
         source_code_link: "https://github.com/dannycao1997/Twitter-Clone",
+    },
+    {
+        name: "JDM Car Rental App",
+        description:
+            "Web-based platform that allows users to search and book the finest JDM and exotic sports cars rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        tags: [
+            {
+                name: "javascript",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "java",
+                color: "green-text-gradient",
+            },
+            {
+                name: "html",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: carrent,
+        source_code_link: "https://github.com/dannycao1997/JDMCarRentalApp",
     },
     {
         name: "Dictionary App",
