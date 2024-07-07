@@ -85,7 +85,7 @@ const Works = () => {
                 links to code repositories and live demos in it. It reflects my
                 ability to solve complex problems, work with different technologies,
                 and manage projects effectively. You can find more on my GitHub -
-                <a href="https://github.com/dannycao1997" target="_blank" rel="noopener noreferrer"
+                <a href="https://github.com/dannycao1997/" target="_blank" rel="noopener noreferrer"
                    className="text-blue-400 hover:text-blue-800">
                     https://github.com/dannycao1997
                 </a>

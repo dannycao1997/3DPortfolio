@@ -197,29 +197,30 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Dannyverse - Web 3.0 Blockchain App",
+        name: "Dannyverse: A Web 3.0 Blockchain Application",
         description:
-            "This Web 3.0 application allows you to connect your Ethereum wallet via MetaMask, manage transactions, and interact with smart contracts with unparalleled ease. Enhanced with unique messaging capabilities and GIFs, Dannyverse merges solid security with React.js and Solidity to offer a user-friendly platform that transforms your approach to digital currency. Check out the live app! ✨ https://dannyverse.tech/ ✨",
+            "Developed Dannyverse, a secure and intuitive platform featuring seamless MetaMask integration for Ethereum transactions and smart contract interactions.\n" +
+            " Check out the live app! ✨www.dannyverse.tech✨",
         tags: [
             {
-                name: "javascript",
+                name: "JavaScript",
                 color: "blue-text-gradient",
             },
             {
-                name: "solidity",
+                name: "Solidity",
                 color: "green-text-gradient",
             },
             {
-                name: "ccs",
+                name: "React.js",
                 color: "pink-text-gradient",
             },
             {
-                name: "dannyverse.tech",
+                name: "Web3.js",
                 color: "pink-text-gradient",
             },
         ],
         image: dannyverse,
-        source_code_link: "https://github.com/dannycao1997/Dannyverse_BlockchainApp",
+        source_code_link: "https://github.com/dannycao1997/Web3.0BlockchainApp",
     },
     {
         name: "Echo - A Twitter Clone",
