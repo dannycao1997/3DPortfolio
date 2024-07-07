@@ -28,7 +28,7 @@ import tesla from "./company/autoservice.png";
 
 import carrent from "./turoo.gif";
 import jobit from "./echo.gif";
-import tripguide from "./dictionaryapp.png";
+import tripguide from "./dictionaryapp.gif";
 import dannyverse from "./dannyverse.gif";
 
 
