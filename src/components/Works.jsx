@@ -49,7 +49,9 @@ const ProjectCard = ({
 
           <div className='mt-5'>
             <h3 className='text-white font-bold text-[24px]'>{name}</h3>
-            <p className='mt-2 text-secondary text-[14px]'>{description}</p>
+            <p className='mt-2 text-secondary text-[14px]'
+               dangerouslySetInnerHTML={{ __html: description }}
+            />
           </div>
 
           <div className='mt-4 flex flex-wrap gap-2'>
@@ -68,12 +70,25 @@ const ProjectCard = ({
 };
 
 const Works = () => {
-  return (
-      <>
-        <motion.div variants={textVariant()}>
-          <p className={`${styles.sectionSubText} `}>My work</p>
-          <h2 className={`${styles.sectionHeadText}`}>Projects.</h2>
-        </motion.div>
+    return (
+        <>
+            <style>
+                {`
+          .custom-link {
+            color: #1e90ff; /* DodgerBlue */
+            text-decoration: none;
+          }
+
+          .custom-link:hover {
+            color: #ff69b4; /* HotPink */
+            text-decoration: underline;
+          }
+        `}
+            </style>
+            <motion.div variants={textVariant()}>
+                <p className={`${styles.sectionSubText} `}>My work</p>
+                <h2 className={`${styles.sectionHeadText}`}>Projects.</h2>
+            </motion.div>
 
         <div className='w-full flex'>
             <motion.p

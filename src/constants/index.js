@@ -195,9 +195,7 @@ const testimonials = [
 const projects = [
     {
         name: "Dannyverse: A Web 3.0 Blockchain Application",
-        description:
-            "Developed Dannyverse, a secure and intuitive platform featuring seamless MetaMask integration for Ethereum transactions and smart contract interactions.\n" +
-            " ✨www.dannyverse.tech✨",
+        description: `Developed Dannyverse, a secure and intuitive platform featuring seamless MetaMask integration for Ethereum transactions and smart contract interactions. ✨<a href="https://www.dannyverse.tech" target="_blank" rel="noopener noreferrer" class="custom-link">www.dannyverse.tech</a>✨`,
         tags: [
             {
                 name: "JavaScript",
@@ -286,5 +284,6 @@ const projects = [
         source_code_link: "https://github.com/dannycao1997/DictionaryApp",
     },
 ];
+
 
 export { services, technologies, experiences, testimonials, projects };
