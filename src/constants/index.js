@@ -195,11 +195,15 @@ const testimonials = [
 const projects = [
     {
         name: "Dannyverse: A Web 3.0 Blockchain Application",
-        description: `Developed Dannyverse, a secure and intuitive platform featuring seamless MetaMask integration for Ethereum transactions and smart contract interactions. ✨<a href="https://www.dannyverse.tech" target="_blank" rel="noopener noreferrer" class="custom-link">www.dannyverse.tech</a>✨`,
+        description: `Developed Dannyverse, a secure and intuitive platform featuring seamless MetaMask integration for Ethereum transactions and smart contract interactions. <a href="https://www.dannyverse.tech" target="_blank" rel="noopener noreferrer" class="custom-link">https://www.dannyverse.tech</a>`,
         tags: [
             {
                 name: "JavaScript",
                 color: "blue-text-gradient",
+            },
+            {
+                name: "Three.js",
+                color: "pink-text-gradient",
             },
             {
                 name: "Solidity",
@@ -211,7 +215,7 @@ const projects = [
             },
             {
                 name: "Web3.js",
-                color: "pink-text-gradient",
+                color: "orange-text-gradient",
             },
         ],
         image: dannyverse,
@@ -219,13 +223,20 @@ const projects = [
     },
     {
         name: "Echo: A Twitter Clone with Voice Recognition",
-        description:
-            "Collaborated in a team to create Echo, a Twitter clone featuring voice recognition for enhanced user interaction and accessibility. Ensured a responsive design with real-time updates and robust social media functionalities, significantly improving user retention and satisfaction.\n" +
-        "✨www.github.com/dannycao1997/Twitter-Clone✨",
+        description: `Collaborated in a team to create Echo, a Twitter clone featuring voice recognition for enhanced user interaction and accessibility. Ensured a responsive design with real-time updates and robust social media functionalities, significantly improving user retention and satisfaction. <a href="https://github.com/dannycao1997/Twitter-Clone" target="_blank" rel="noopener noreferrer" class="custom-link">https://github.com/dannycao1997/Twitter-Clone</a>`,
+
         tags: [
             {
                 name: "TypeScript",
                 color: "blue-text-gradient",
+            },
+            {
+                name: "MySQL",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "Java",
+                color: "pink-text-gradient",
             },
             {
                 name: "Springboot",
@@ -241,9 +252,7 @@ const projects = [
     },
     {
         name: "A Turo Clone: Premium Car Rental Platform",
-        description:
-            "Engineered a platform for renting exotic and Japanese Domestic Market vehicles, catering to high-performance sports car enthusiasts. Delivered a seamless user experience with an efficient booking process, leading to increased user engagement and loyalty.\n" +
-            "✨www.github.com/dannycao1997/TuroClone✨",
+        description: `Engineered a platform for renting exotic and Japanese Domestic Market vehicles, catering to high-performance sports car enthusiasts. Delivered a seamless user experience with an efficient booking process, leading to increased user engagement and loyalty. <a href="https://github.com/dannycao1997/TuroClone" target="_blank" rel="noopener noreferrer" class="custom-link">https://github.com/dannycao1997/TuroClone</a>`,
         tags: [
             {
                 name: "Java",
@@ -252,6 +261,14 @@ const projects = [
             {
                 name: "JavaScript",
                 color: "green-text-gradient",
+            },
+            {
+                name: "HTML",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "MySQL",
+                color: "pink-text-gradient",
             },
             {
                 name: "Spring Boot",
@@ -263,9 +280,7 @@ const projects = [
     },
     {
         name: "Advanced Dictionary Application",
-        description:
-            "Created a robust dictionary app offering users comprehensive word definitions, pronunciations, and usage examples. \n" +
-        "✨github.com/dannycao1997/DictionaryApp✨",
+        description: `Created a dictionary app that offers users comprehensive word definitions, pronunciations, and usage examples, ensuring a seamless and intuitive user experience across various devices to significantly enhance accessibility and learning. <a href="https://github.com/dannycao1997/DictionaryApp" target="_blank" rel="noopener noreferrer" class="custom-link">https://github.com/dannycao1997/DictionaryApp</a>`,
         tags: [
             {
                 name: "Bootstrap",
@@ -274,6 +289,10 @@ const projects = [
             {
                 name: "JavaScript",
                 color: "green-text-gradient",
+            },
+            {
+                name: "HTML",
+                color: "orange-text-gradient",
             },
             {
                 name: "TypeScript",

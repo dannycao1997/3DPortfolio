@@ -26,10 +26,10 @@ import shopify from "./company/honda.png";
 import starbucks from "./company/pepboys.png";
 import tesla from "./company/autoservice.png";
 
-import carrent from "./carrental.png";
-import jobit from "./echo.png";
+import carrent from "./turoo.gif";
+import jobit from "./echo.gif";
 import tripguide from "./dictionaryapp.png";
-import dannyverse from "./dannyverse.png";
+import dannyverse from "./dannyverse.gif";
 
 
 
