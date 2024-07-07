@@ -128,7 +128,7 @@ const experiences = [
         ],
     },
     {
-        title: "Assistant Service Manager 06/2022 to 12/2023",
+        title: "Assistant Service Manager",
         company_name: "Union Park Automotive Group",
         icon: shopify,
         iconBg: "#ffffff",
@@ -158,9 +158,9 @@ const experiences = [
         iconBg: "#ffffff",
         date: "Aug 2016 - Mar 2018",
         points: [
-            "Interacted with customers to assess vehicle issues, providing expert advice and recommendations for repairs and maintenance, utilized strong organizational skills to effectively manage service appointments, and communicated effectively with technicians to ensure prompt and accurate completion of work",
-            "Collaborated with the service manager to assess departmental performance metrics and devised effective strategies for enhancement",
-            "Cultivated strong customer relationships by clearly explaining estimates and meticulously documenting issues and data within the management system",
+            "Assessed vehicle issues and provided detailed estimates and repair recommendations, ensuring clear communication with customers, which improved customer satisfaction scores by 15%",
+            "Managed service appointments and optimized workflows, reducing customer wait times by 20%.",
+            "Maintained strong customer relationships through effective communication and documentation, paralleling client relations and documentation in software projects.",
         ],
     },
 ];
