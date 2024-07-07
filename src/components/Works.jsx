@@ -84,15 +84,10 @@ const Works = () => {
                 real-world examples of my work. Each project is briefly described with
                 links to code repositories and live demos in it. It reflects my
                 ability to solve complex problems, work with different technologies,
-                and manage projects effectively. You can find more on my GitHub -
+                and manage projects effectively. You can find more on my GitHub
+                🌐
                 <a href="https://github.com/dannycao1997/" target="_blank" rel="noopener noreferrer"
-                   className="text-blue-400 hover:text-blue-800">
-                    https://github.com/dannycao1997
-                </a>
-                <br/>
-                <a href="https://dannyverse.tech/" target="_blank" rel="noopener noreferrer"
-                   className="text-blue-400 hover:text-blue-800">
-                    https://dannyverse.tech/
+                   className="text-blue-400 hover:text-blue-800"> https://github.com/dannycao1997
                 </a>
             </motion.p>
         </div>
