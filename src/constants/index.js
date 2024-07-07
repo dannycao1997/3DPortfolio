@@ -200,7 +200,7 @@ const projects = [
         name: "Dannyverse: A Web 3.0 Blockchain Application",
         description:
             "Developed Dannyverse, a secure and intuitive platform featuring seamless MetaMask integration for Ethereum transactions and smart contract interactions.\n" +
-            " Check out the live app! ✨www.dannyverse.tech✨",
+            " ✨www.dannyverse.tech✨",
         tags: [
             {
                 name: "JavaScript",
@@ -223,20 +223,21 @@ const projects = [
         source_code_link: "https://github.com/dannycao1997/Web3.0BlockchainApp",
     },
     {
-        name: "Echo - A Twitter Clone",
+        name: "Echo: A Twitter Clone with Voice Recognition",
         description:
-            "This application replicates the core functionalities of Twitter, providing a comprehensive platform for microblogging. Echo is crafted with a modern technology stack, featuring Spring Boot for the backend services and React for the frontend interactions, ensuring a responsive and user-friendly experience. It includes a voice recognition feature, allowing users to create posts hands-free.",
+            "Collaborated in a team to create Echo, a Twitter clone featuring voice recognition for enhanced user interaction and accessibility. Ensured a responsive design with real-time updates and robust social media functionalities, significantly improving user retention and satisfaction.\n" +
+        "✨www.github.com/dannycao1997/Twitter-Clone✨",
         tags: [
             {
-                name: "typescript",
+                name: "TypeScript",
                 color: "blue-text-gradient",
             },
             {
-                name: "springboot",
+                name: "Springboot",
                 color: "green-text-gradient",
             },
             {
-                name: "jhipster",
+                name: "Jhipster",
                 color: "pink-text-gradient",
             },
         ],
@@ -244,41 +245,43 @@ const projects = [
         source_code_link: "https://github.com/dannycao1997/Twitter-Clone",
     },
     {
-        name: "JDM Car Rental App",
+        name: "A Turo Clone: Premium Car Rental Platform",
         description:
-            "Web-based platform that allows users to search and book the finest JDM and exotic sports cars rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "Engineered a platform for renting exotic and Japanese Domestic Market vehicles, catering to high-performance sports car enthusiasts. Delivered a seamless user experience with an efficient booking process, leading to increased user engagement and loyalty.\n" +
+            "✨www.github.com/dannycao1997/TuroClone✨",
         tags: [
             {
-                name: "javascript",
+                name: "Java",
                 color: "blue-text-gradient",
             },
             {
-                name: "java",
+                name: "JavaScript",
                 color: "green-text-gradient",
             },
             {
-                name: "html",
+                name: "Spring Boot",
                 color: "pink-text-gradient",
             },
         ],
         image: carrent,
-        source_code_link: "https://github.com/dannycao1997/JDMCarRentalApp",
+        source_code_link: "https://github.com/dannycao1997/TuroClone",
     },
     {
-        name: "Dictionary App",
+        name: "Advanced Dictionary Application",
         description:
-            "The main objective of the voice recognition dictionary app was to simplify the process of searching for word meanings and examples by allowing users to use their voice instead of typing.",
+            "Created a robust dictionary app offering users comprehensive word definitions, pronunciations, and usage examples. \n" +
+        "✨github.com/dannycao1997/DictionaryApp✨",
         tags: [
             {
-                name: "mysql",
+                name: "Bootstrap",
                 color: "blue-text-gradient",
             },
             {
-                name: "html",
+                name: "JavaScript",
                 color: "green-text-gradient",
             },
             {
-                name: "typescript",
+                name: "TypeScript",
                 color: "pink-text-gradient",
             },
         ],
