@@ -95,12 +95,7 @@ const Works = () => {
                 variants={fadeIn("", "", 0.1, 1)}
                 className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
             >
-                Following projects showcases my skills and experience through
-                real-world examples of my work. Each project is briefly described with
-                links to code repositories and live demos in it. It reflects my
-                ability to solve complex problems, work with different technologies,
-                and manage projects effectively. You can find more on my GitHub
-                🌐
+                These projects showcase my technical expertise and real-world problem-solving skills. Each example highlights my ability to design and build scalable, high-performance applications across a range of technologies. Links to live demos and source code are included to demonstrate my proficiency in full-stack development, cloud deployment, and microservice architecture. My work reflects a commitment to delivering secure, efficient solutions while collaborating in Agile environments. More projects can be explored on my GitHub 🌐
                 <a href="https://github.com/dannycao1997/" target="_blank" rel="noopener noreferrer"
                    className="text-blue-400 hover:text-blue-800"> https://github.com/dannycao1997
                 </a>

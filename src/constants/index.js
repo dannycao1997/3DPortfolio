@@ -135,7 +135,7 @@ const experiences = [
         iconBg: "#ffffff",
         date: "Jun 2022 – Dec 2023",
         points: [
-            "Led a team of 20+ technicians, achieving a 20% increase in workflow efficiency and a 15% improvement in customer satisfaction scores.",
+            "Led a team of 10+ technicians, implementing Agile-inspired methodologies to optimize workflow, increasing efficiency by 20%",
             "Implemented and optimized Xtime software for appointment scheduling, service tracking, and customer communications, reducing scheduling errors by 30%.",
             "Diagnosed complex customer issues promptly, leveraging strong problem-solving abilities comparable to debugging and troubleshooting software problems, resulting in a 25% reduction in service-related complaints.",
         ],

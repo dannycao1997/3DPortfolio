@@ -56,7 +56,7 @@ const About = () => {
               variants={fadeIn("", "", 0.1, 1)}
               className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
           >
-              Transitioning seamlessly from nearly ten years in automotive service diagnostics, I bring a unique blend of analytical prowess and client-focused dedication to the software development field. My deep technical expertise and leadership experience enable me to tackle complex software challenges with precision. Proficient in Java, Spring Boot, and modern front-end technologies, I specialize in creating robust, scalable applications that drive results and exceed client expectations. My proven ability to translate diagnostic skills into software solutions makes me an asset in any development team.
+              Full-Stack Software Engineer with a solid foundation in problem-solving, leadership, and technical expertise, transitioning from the automotive industry to developing innovative, high-performance software solutions. Proficient in Java, JavaScript, Spring Boot, React, and AWS, with hands-on experience across the Software Development Life Cycle (SDLC). Specializing in designing scalable, secure APIs and building resilient, data-driven applications, I excel at implementing CI/CD pipelines, deploying microservices, and collaborating in Agile environments to deliver robust solutions that meet diverse business needs. Passionate about continuous learning and staying on the cutting edge of technology, I am eager to contribute my skills to dynamic teams, working to create impactful applications that enhance the user experience and drive business success.
         </motion.p>
 
         <div className='mt-20 flex flex-wrap gap-10'>
