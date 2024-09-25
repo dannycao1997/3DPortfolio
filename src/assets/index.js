@@ -30,6 +30,8 @@ import carrent from "./turoo.gif";
 import jobit from "./echo.gif";
 import tripguide from "./dictionaryapp.gif";
 import dannyverse from "./dannyverse.gif";
+import fishingappdemo from "./fishingappdemo.gif";
+
 
 
 
@@ -64,6 +66,7 @@ export {
   jobit,
   tripguide,
   dannyverse,
+  fishingappdemo,
 
 };
 

@@ -20,6 +20,7 @@ import {
     tesla,
     shopify,
     carrent,
+    fishingappdemo,
     jobit,
     tripguide,
     threejs, dannyverse,
@@ -194,8 +195,8 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Dannyverse: A Web 3.0 Blockchain Application",
-        description: `Developed Dannyverse, a secure and intuitive platform featuring seamless MetaMask integration for Ethereum transactions and smart contract interactions. <a href="https://www.dannyverse.tech" target="_blank" rel="noopener noreferrer" class="custom-link">https://www.dannyverse.tech</a>`,
+        name: "Web3 Blockchain Application",
+        description: `Built a decentralized Ethereum-based application with Solidity smart contracts and MetaMask integration for secure wallet connectivity. Designed the front end using React and Web3.js to handle blockchain interactions, ensuring secure wallet transactions. <a href="https://www.dannyverse.tech" target="_blank" rel="noopener noreferrer" class="custom-link">https://www.dannyverse.tech</a>`,
         tags: [
             {
                 name: "JavaScript",
@@ -222,8 +223,8 @@ const projects = [
         source_code_link: "https://github.com/dannycao1997/Web3.0BlockchainApp",
     },
     {
-        name: "Echo: A Twitter Clone with Voice Recognition",
-        description: `Collaborated in a team to create Echo, a Twitter clone featuring voice recognition for enhanced user interaction and accessibility. Ensured a responsive design with real-time updates and robust social media functionalities, significantly improving user retention and satisfaction. <a href="https://github.com/dannycao1997/Twitter-Clone" target="_blank" rel="noopener noreferrer" class="custom-link">https://github.com/dannycao1997/Twitter-Clone</a>`,
+        name: "Twitter Clone",
+        description: `Developed a Twitter-like application using JHipster for rapid backend development, with MySQL for database management. Integrated accessible features using voice recognition APIs, ensuring a smooth user experience across devices. <a href="https://github.com/dannycao1997/Twitter-Clone" target="_blank" rel="noopener noreferrer" class="custom-link">https://github.com/dannycao1997/Twitter-Clone</a>`,
 
         tags: [
             {
@@ -239,7 +240,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
             {
-                name: "Springboot",
+                name: "Spring Boot",
                 color: "green-text-gradient",
             },
             {
@@ -251,8 +252,8 @@ const projects = [
         source_code_link: "https://github.com/dannycao1997/Twitter-Clone",
     },
     {
-        name: "A Turo Clone: Premium Car Rental Platform",
-        description: `Engineered a platform for renting exotic and Japanese Domestic Market vehicles, catering to high-performance sports car enthusiasts. Delivered a seamless user experience with an efficient booking process, leading to increased user engagement and loyalty. <a href="https://github.com/dannycao1997/TuroClone" target="_blank" rel="noopener noreferrer" class="custom-link">https://github.com/dannycao1997/TuroClone</a>`,
+        name: "Car Rental Platform",
+        description: `Developed a full-stack car rental platform, using Spring Boot for backend services and React for the frontend. Implemented secure, scalable RESTful APIs to manage vehicle listings and bookings, utilizing PostgreSQL for data storage. <a href="https://github.com/dannycao1997/TuroClone" target="_blank" rel="noopener noreferrer" class="custom-link">https://github.com/dannycao1997/TuroClone</a>`,
         tags: [
             {
                 name: "Java",
@@ -302,6 +303,33 @@ const projects = [
         image: tripguide,
         source_code_link: "https://github.com/dannycao1997/DictionaryApp",
     },
+
+    {
+        name: "Fishing Logbook Web Application",
+        description: `Created a web application for logging fishing activities, using Spring Boot for backend RESTful services and PostgreSQL for data storage. Implemented cloud-based deployment solutions to ensure high availability and scalability. <a href="https://github.com/dannycao1997/Dannys-Fishing-Logbook" target="_blank" rel="noopener noreferrer" class="custom-link">https://github.com/dannycao1997/Dannys-Fishing-Logbook</a>`,
+        tags: [
+            {
+                name: "Spring Boot",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "React",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Java",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "JavaScript",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: fishingappdemo,
+        source_code_link: "https://github.com/dannycao1997/Dannys-Fishing-Logbook",
+    },
+
+
 ];
 
 
